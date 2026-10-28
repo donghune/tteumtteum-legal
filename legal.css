@@ -1,0 +1,10 @@
+body { margin: 0; background: #fff5f0; color: #4a3f3c; font: 16px/1.7 "Pretendard", sans-serif; }
+main { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+h1, h2 { font-weight: 700; }
+h1 { font-size: 30px; margin: 0 0 4px; } h1 span { color: #f0838a; }
+h2 { font-size: 20px; margin: 32px 0 8px; }
+.muted { color: #9b8f8a; font-size: 14px; }
+.card { background: #fff; border-radius: 24px; padding: 20px 22px; margin: 16px 0; box-shadow: 0 8px 24px rgba(240, 131, 138, .15); }
+a { color: #c4535b; }
+table { border-collapse: collapse; width: 100%; font-size: 14px; } td, th { border-bottom: 1px solid #f0e4df; padding: 8px 6px; text-align: left; vertical-align: top; }
+nav a { margin-right: 14px; font-size: 14px; }
